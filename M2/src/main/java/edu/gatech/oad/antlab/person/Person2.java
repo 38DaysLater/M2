@@ -36,7 +36,7 @@ public class Person2 {
 	  //Person 2 put your implementation here
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < input.length(); i++) {
-                int num = rand.nextInt()%input.length();
+                int num = Math.abs(rand.nextInt()%input.length());
                 sb.append(input.charAt(num));
             }
 	  return sb.toString();
