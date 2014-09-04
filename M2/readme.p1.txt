@@ -1,5 +1,4 @@
 Hutchinson Pryor
 hpryor3
 
-
-WHEE EXTRA CREDITTTT
+Showing afiq how things work
