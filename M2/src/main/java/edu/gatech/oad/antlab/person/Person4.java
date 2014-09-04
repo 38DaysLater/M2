@@ -37,6 +37,7 @@ public class Person4 {
             current ++;
             output = output + current;
             //this is a test. my name is not added properly to github
+            //test 2
 
         }
       return output;
